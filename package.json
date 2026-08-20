@@ -1,0 +1,1 @@
+{"name":"nonprofit-verification-mailer","private":true,"type":"module","scripts":{"typecheck":"tsc --noEmit","test":"tsx test/verify_signup.test.ts","demo":"tsx src/verify_signup.ts"},"dependencies":{"zod":"^3.23.8"},"devDependencies":{"tsx":"^4.19.0","typescript":"^5.6.0","@types/node":"^22.0.0"}}
